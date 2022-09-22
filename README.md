@@ -41,8 +41,6 @@
  <a href="https://github.com/dridslash" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  
  </p>
- 
-# 42_network_badge
 
 [![mnaqqad's 42 stats](https://badge.mediaplus.ma/binary/mnaqqad)](https://github.com/oakoudad/badge42)
 
