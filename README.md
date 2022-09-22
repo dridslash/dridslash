@@ -31,7 +31,7 @@
 
 #### Languages and Tools 
 <p>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="C++"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/C++-5.svg" alt="C++"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git"></code>
   <code><img height="22" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="terminal"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java"></code>
@@ -79,14 +79,3 @@
  <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  
  </p>
-
-
-![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
-![GitHub last commit](https://github.com/UjwalKandi/UjwalKandi/blob/master/svg/last%20commit.svg)
-![pv](https://pageview.vercel.app/?github_user=UjwalKandi)
-
-
------
-Credits: [UjwalKandi](https://github.com/UjwalKandi)
-
-Last Edited on: 10/14/2021
