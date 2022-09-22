@@ -31,7 +31,7 @@
 
 #### Languages and Tools 
 <p>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c++-5.svg" alt="C++"></code>
+  <code><img height="25" src="https://www.google.com/search?q=c%2B%2B+icon&sxsrf=ALiCzsaRpRkKiOZ8fzx6uNY2H6nJXBcJwQ:1663840730669&source=lnms&tbm=isch&sa=X&ved=2ahUKEwisitvdkaj6AhVJhM4BHe2QC-sQ_AUoAXoECAEQAw&biw=2492&bih=1250&dpr=2#imgrc=1YhUnxI1zG9eTM" alt="C++"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git"></code>
   <code><img height="22" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="terminal"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
