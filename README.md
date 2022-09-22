@@ -1,18 +1,6 @@
 
-# 42_network_badge
 
-[![mnaqqad's 42 stats](https://badge.mediaplus.ma/binary/mnaqqad)](https://github.com/oakoudad/badge42)
-
-<a href="https://github.com/dridslash?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridslash&theme=dark"/>
-</a>
-<a href="https://github.com/dridslash?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dridslash&line_height=40&show_icons=true&theme=dark">
-</a>
-
-
-
- <!--
+<!--
 **UjwalKandi/UjwalKandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
@@ -53,3 +41,14 @@
  <a href="https://github.com/dridslash" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  
  </p>
+ 
+# 42_network_badge
+
+[![mnaqqad's 42 stats](https://badge.mediaplus.ma/binary/mnaqqad)](https://github.com/oakoudad/badge42)
+
+<a href="https://github.com/dridslash?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridslash&theme=dark"/>
+</a>
+<a href="https://github.com/dridslash?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dridslash&line_height=40&show_icons=true&theme=dark">
+</a>
